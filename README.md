@@ -4,3 +4,7 @@ Cyberpunk 2077 mod which adds crafting recipes for all Phantom Liberty iconic we
 
 ![Store](/docs/image/store.jpg "Store")
 ![Store Items](/docs/image/items.jpg "Store Items")
+
+## Mod Development
+
+Download and install [Wolvenkit](https://wiki.redmodding.org/wolvenkit/getting-started/download) from CDPR, and open the `PhantomLibertyIconicRecipes.cpmodproj` project file in Wolvenkit.
