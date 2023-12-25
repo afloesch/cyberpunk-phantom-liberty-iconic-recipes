@@ -5,6 +5,61 @@ Cyberpunk 2077 mod which adds crafting recipes for all Phantom Liberty iconic we
 ![Store](/docs/image/store.jpg "Store")
 ![Store Items](/docs/image/items.jpg "Store Items")
 
+## Commands
+
+Recipes can also be added through CET console commands. Replace `<name>` in the below command with the iconic recipe name.
+```
+Game.AddToInventory("Items.Recipe_Iconic_<name>", 1)
+```
+
+See the [Cyberpunk Wiki](https://cyberpunk.fandom.com/wiki/Category:Cyberpunk_2077_Iconic_weapons) for more info on these weapons. Weapon names:
+- Agaou
+- Alabai
+- Ambition
+- Amstaff
+- Baby_Boomer
+- Bald_Eagle
+- Borzaya
+- Carmen
+- Catahoula
+- Cheetah
+- Chesapeake
+- Chinook
+- Crimestopper
+- Crowbar
+- Dezerter
+- Erebus
+- Errata
+- Fang
+- Foxhound
+- Gris_Gris
+- Hawk
+- Her_Majesty
+- Hercules
+- Laika
+- Mancinella
+- Murphys_Law
+- Nehan
+- Nokota_Osprey
+- Ogou
+- Ol_Reliable
+- Order
+- Pariah
+- Pitbull
+- Pizdets
+- Raiju
+- Rasetsu
+- Riskit
+- Rook
+- Rosco
+- Sparky
+- Taigan
+- Volkodav
+- Wild_Dog
+- Yasha
+
 ## Mod Development
 
-Download and install [Wolvenkit](https://wiki.redmodding.org/wolvenkit/getting-started/download) from CDPR, and open the `PhantomLibertyIconicRecipes.cpmodproj` project file in Wolvenkit.
+1. Clone this repository.
+1. Download and install [Wolvenkit](https://wiki.redmodding.org/wolvenkit/getting-started/download) from CDPR.
+1. Open the `PhantomLibertyIconicRecipes.cpmodproj` project file in Wolvenkit.
