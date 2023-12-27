@@ -38,6 +38,7 @@ See the [Cyberpunk Wiki](https://cyberpunk.fandom.com/wiki/Category:Cyberpunk_20
 - Fang
 - Foxhound
 - Gris_Gris
+- Gwynnbleidd
 - Hawk
 - Her_Majesty
 - Hercules
@@ -57,6 +58,7 @@ See the [Cyberpunk Wiki](https://cyberpunk.fandom.com/wiki/Category:Cyberpunk_20
 - Riskit
 - Rook
 - Rosco
+- Scorch
 - Sparky
 - Taigan
 - Volkodav
